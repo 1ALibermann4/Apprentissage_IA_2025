@@ -1,0 +1,22 @@
+artifact_path: file:///mnt/c/Users/Jean%20Marie/mlops-tp/mlruns/393678991171048110/models/m-9b249a2cfcdb462facf342cacd6644ac/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 3.4.0
+model_id: m-9b249a2cfcdb462facf342cacd6644ac
+model_size_bytes: 3373121
+model_uuid: m-9b249a2cfcdb462facf342cacd6644ac
+prompts: null
+run_id: 22d890b2cbe149ab805f7e70f533e0d4
+utc_time_created: '2025-10-20 19:52:44.535158'

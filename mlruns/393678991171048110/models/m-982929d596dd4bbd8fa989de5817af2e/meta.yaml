@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Jean%20Marie/mlops-tp/mlruns/393678991171048110/models/m-982929d596dd4bbd8fa989de5817af2e/artifacts
+creation_timestamp: 1760990214203
+experiment_id: '393678991171048110'
+last_updated_timestamp: 1760990266313
+model_id: m-982929d596dd4bbd8fa989de5817af2e
+model_type: null
+name: LogisticRegression_pipeline
+source_run_id: ac039f83025c41658979534042b9e942
+status: 2
+status_message: null

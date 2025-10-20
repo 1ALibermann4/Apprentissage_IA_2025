@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Jean%20Marie/mlops-tp/mlruns/393678991171048110/models/m-9b249a2cfcdb462facf342cacd6644ac/artifacts
+creation_timestamp: 1760989963930
+experiment_id: '393678991171048110'
+last_updated_timestamp: 1760989983722
+model_id: m-9b249a2cfcdb462facf342cacd6644ac
+model_type: null
+name: NaiveBayes_pipeline
+source_run_id: 22d890b2cbe149ab805f7e70f533e0d4
+status: 2
+status_message: null

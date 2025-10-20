@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Jean%20Marie/mlops-tp/mlruns/393678991171048110/ac039f83025c41658979534042b9e942/artifacts
+end_time: 1760990266443
+entry_point_name: ''
+experiment_id: '393678991171048110'
+lifecycle_stage: active
+run_id: ac039f83025c41658979534042b9e942
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760990211785
+status: 3
+tags: []
+user_id: ean_arie

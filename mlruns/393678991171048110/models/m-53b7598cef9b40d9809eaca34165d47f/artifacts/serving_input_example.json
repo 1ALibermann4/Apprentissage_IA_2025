@@ -1,0 +1,12 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "text"
+    ],
+    "data": [
+      [
+        "Ceci est un exemple de texte."
+      ]
+    ]
+  }
+}

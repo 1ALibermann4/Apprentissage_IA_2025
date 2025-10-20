@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Jean%20Marie/mlops-tp/mlruns/393678991171048110/22d890b2cbe149ab805f7e70f533e0d4/artifacts
+end_time: 1760989983844
+entry_point_name: ''
+experiment_id: '393678991171048110'
+lifecycle_stage: active
+run_id: 22d890b2cbe149ab805f7e70f533e0d4
+run_name: NaiveBayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760989961933
+status: 3
+tags: []
+user_id: ean_arie
