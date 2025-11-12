@@ -30,3 +30,9 @@ jobs:
           python src/preprocess.py
           python src/train.py
           python src/evaluate.py
+
+      - name: Upload MLflow results
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlflow-results
+          path: mlruns/
